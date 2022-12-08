@@ -21,8 +21,7 @@ Para crear un archivo **.gitignore** local, crea un archivo de texto y asígnale
 
 > ##[TEXTO] = Titulo 2
 
-> ######[TEXTO] = Titulo 3
-
+> ###TEXTO] = Titulo 3
 
 > **[TEXTO]** = Negritas
 
@@ -39,8 +38,7 @@ Para crear un archivo **.gitignore** local, crea un archivo de texto y asígnale
 
 > ##[TEXTO] = Titulo 2
 
-> ######[TEXTO] = Titulo 3
-
+> ###TEXTO] = Titulo 3
 
 > **[TEXTO]** = Negritas
 
