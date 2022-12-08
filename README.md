@@ -29,10 +29,11 @@ Para crear un archivo **.gitignore** local, crea un archivo de texto y asígnale
 
 > ***[TEXTO]*** = Negritas y curbadas
 
-> ~~[EXTO]~~ = Subrallar texto
+> ~~[EXTO]~~ = Tachar texto
 
 > <sub> [TEXTO] </sub> = SubTexto
 
+> - [TEXTO] = Subrallas
 
 ```
 > #[TEXTO] = Titulo 1
@@ -50,6 +51,8 @@ Para crear un archivo **.gitignore** local, crea un archivo de texto y asígnale
 > ~~[EXTO]~~ = Subrallar texto
 
 > <sub> [TEXTO] </sub> = SubTexto
+
+>  - [TEXTO] = Subrallas
 
 ```
 
