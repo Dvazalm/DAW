@@ -16,4 +16,8 @@ Para crear un archivo **.gitignore** local, crea un archivo de texto y asígnale
 ![Esto se ve si la imagen no carga](https://i0.wp.com/www.alphr.com/wp-content/uploads/2020/08/Whats-a-GITIGNORE-File-How-To-Use-One.jpg?fit=1200%2C666&ssl=1)
 
 
+# Formatos de texto
+```fix
+>**[TEXTO]**
+```
 
