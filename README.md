@@ -33,7 +33,8 @@ Para crear un archivo **.gitignore** local, crea un archivo de texto y asígnale
 
 > <sub> [TEXTO] </sub> = SubTexto
 
-> - [TEXTO] = Subrallas
+> - [TEXTO] = Punto negro
+>   - [TEXTO] = Punto blanco
 
 ```
 > #[TEXTO] = Titulo 1
@@ -52,7 +53,7 @@ Para crear un archivo **.gitignore** local, crea un archivo de texto y asígnale
 
 > <sub> [TEXTO] </sub> = SubTexto
 
->  - [TEXTO] = Subrallas
-
+> - [TEXTO] = Punto negro
+>   - [TEXTO] = Punto blanco
 ```
 
