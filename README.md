@@ -17,7 +17,23 @@ Para crear un archivo **.gitignore** local, crea un archivo de texto y asígnale
 
 
 # Formatos de texto
-```fix
->**[TEXTO]**
+```
+> #[TEXTO] = Titulo 1
+
+> ##[TEXTO] = Titulo 2
+
+> ######[TEXTO] = Titulo 3
+
+
+> **[TEXTO]** = Negritas
+
+> *[TEXTO]* = Curbadas
+
+> ***[TEXTO]*** = Negritas y curbadas
+
+> ~~[EXTO]~~ = Subrallar texto
+
+> <sub> [EXTO] </sub> = SubTexto
+
 ```
 
