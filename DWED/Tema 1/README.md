@@ -12,7 +12,7 @@ Los pilares en los que se basa este framework metodológico son:
 
 Y los valores en los que se fundamenta son:
 
-  - ORAJE
+    - ORAJE
     - FOCO
     - COMPROMISO
     - RESPETO
