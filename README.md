@@ -1,7 +1,7 @@
 # DAW
 Esta actividad de DAW es de David Vázquez Almenara
 
-##.gitignore
+## .gitignore
 
 ### ¿Que es un ".gitignore" ?
 Un archivo local .gitignore generalmente se coloca en el directorio raíz de un proyecto. También puedes crear un archivo global .gitignore, y cualquier entrada en ese archivo se ignorará en todos tus repositorios de Git.
