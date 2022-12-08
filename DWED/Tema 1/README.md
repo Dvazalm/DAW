@@ -5,15 +5,15 @@ basados en la filosofía Agile.
 
 Los pilares en los que se basa este framework metodológico son:
 
-- TRANSPARENCIA
-- INSPECCIÓN
-- ADAPTACIÓN
+    - TRANSPARENCIA
+    - INSPECCIÓN
+    - ADAPTACIÓN
 
 
 Y los valores en los que se fundamenta son:
 
-    - ORAJE
-    - FOCO
-    - COMPROMISO
-    - RESPETO
-    - APERTURA
+   - ORAJE
+   - FOCO
+   - COMPROMISO
+   - RESPETO
+   - APERTURA
